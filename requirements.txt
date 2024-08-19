@@ -1,0 +1,7 @@
+langchain
+PyPDF2
+python-dotenv
+python_docx
+qdrant_client
+streamlit
+streamlit_chat
